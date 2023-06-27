@@ -1,4 +1,4 @@
-# 0 7-18 * * * curl http://sample-nodejs:8080 >/proc/1/fd/1 2>/proc/1/fd/2
+# 0 7-18 * * * curl https://vytastock-iicnq.ondigitalocean.app/ >/proc/1/fd/1 2>/proc/1/fd/2
 */5 * * * * curl http://sample-nodejs:8080 >/proc/1/fd/1 2>/proc/1/fd/2
 
 
